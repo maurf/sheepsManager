@@ -1,8 +1,7 @@
 ## Sheeps Manager
 An application used to manage sheeps farms built with React, Redux, JavaScript, and Tailwind CSS.
 
-## Project Status
-Development
+## Project Status: Development
 This project is currently in development. Users can add and edit sheeps, also user can add reprodutive cycles to each sheep.
 
 TODO: Test Suite, among many other features and components 
